@@ -4,9 +4,9 @@ Clone repo somewhere
 
 *This hasn't been tested yet by moulinette and is not recommended to take as reference*
 
-% make        #create libftprintf.a
-% make clean  #clean \*.o
-% make fclean #clean \*.o & \*.a
-% make re     #remake libftprintf.a
-
+% make        #create libftprintf.a \n
+% make clean  #clean \*.o \n
+% make fclean #clean \*.o & \*.a \n
+% make re     #remake libftprintf.a \n
+\n
 cheers.
