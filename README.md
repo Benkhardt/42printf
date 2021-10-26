@@ -2,7 +2,7 @@
 mimic of libc’s printf function (42 Project, mandatory part only)
 Clone repo somewhere
 
-*This hasn't been tested yet by moulinette and is not recommended to take as reference*
+*This hasn't been tested yet by moulinette and is not recommended to take as reference*</br>
 </br>
 % make        #create libftprintf.a </br>
 % make clean  #clean \*.o </br>
